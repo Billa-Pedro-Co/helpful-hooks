@@ -1,0 +1,22 @@
+{
+  "name": "helpful-hooks",
+  "version": "1.0.0",
+  "description": "helpful hooks by atomic code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRealAtomicCode/helpful-hooks.git"
+  },
+  "keywords": [
+    "hooks"
+  ],
+  "author": "atomic code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRealAtomicCode/helpful-hooks/issues"
+  },
+  "homepage": "https://github.com/TheRealAtomicCode/helpful-hooks#readme"
+}
